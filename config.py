@@ -8,10 +8,10 @@ class Config:
     API_ID = int(environ.get("API_ID", "29777466"))
     API_HASH = environ.get("API_HASH", "a04b3df726520026f207079aec2f9879")
     BOT_TOKEN = environ.get("BOT_TOKEN", "8271049323:AAHCNLRkj7wUrtI6i9dmG1Tc1RzQxLVCSvs") 
-    BOT_SESSION = environ.get("BOT_SESSION", "ndbot") 
+    BOT_SESSION = environ.get("BOT_SESSION", "https://t.me/+Swsed-KYVMJjYzdl") 
     DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://girnarimaharaj01_db_user:KsxBY4eoUBwRKXXw@cluster0.6firafk.mongodb.net/?appName=Cluster0")
     DATABASE_NAME = environ.get("DATABASE_NAME", "girnarimaharaj01_db_user")
-    BOT_OWNER = int(environ.get("BOT_OWNER", "8536344506"))
+    BOT_OWNER = int(environ.get("BOT_OWNER", "8399557684"))
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
